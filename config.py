@@ -1,1 +1,1 @@
-config file line 1
+#config file reset
